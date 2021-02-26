@@ -1,0 +1,20 @@
+node_modules/**/*
+.expo/*
+.expo-shared/*
+npm-debug.*
+*.jks
+*.p8
+*.p12s
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# vscode
+.vscode/*
+
+# react-native-dotenv
+.env

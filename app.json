@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Glossary",
+    "slug": "Glossary",
+    "description": "Glossary - Practice your English",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.glossary"
+    },
+    "android": {
+      "package": "com.glossary"
+    },
+    "extra": {
+      "URL_API": "https://glossary-api.herokuapp.com"
+    }
+  }
+}

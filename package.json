@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@eva-design/eva": "^2.0.0",
+    "@expo/vector-icons": "^10.0.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/drawer": "^5.10.0",
+    "@react-navigation/native": "^5.8.0",
+    "@react-navigation/stack": "^5.10.0",
+    "@ui-kitten/components": "^5.0.0",
+    "@ui-kitten/eva-icons": "^5.0.0",
+    "axios": "^0.21.0",
+    "expo": "~39.0.2",
+    "expo-constants": "~9.2.0",
+    "expo-facebook": "~9.0.0",
+    "expo-localization": "~9.0.0",
+    "expo-sensors": "~9.1.0",
+    "i18n-js": "^3.8.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
+    "react-native-gesture-handler": "~1.7.0",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-responsive-fontsize": "^0.5.0",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-safe-area-context": "3.1.4",
+    "react-native-screens": "~2.10.1",
+    "react-native-segmented-control-tab": "^3.4.1",
+    "react-native-svg": "^12.1.0",
+    "react-native-web": "~0.13.12",
+    "react-navigation-header-buttons": "^6.0.0",
+    "recoil": "https://github.com/facebookexperimental/Recoil.git#nightly"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.3"
+  },
+  "private": true
+}

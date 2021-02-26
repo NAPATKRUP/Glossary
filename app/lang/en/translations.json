@@ -1,0 +1,104 @@
+{
+  "Navigation": {
+    "Home": "Home",
+    "Name": "Guest",
+    "MyGlossary": "My Glossary",
+    "CreateNewGlossary": "Create new Glossary",
+    "SwitchLanguage": "Switch language",
+    "SignIn": "Sign In",
+    "SignOut": "Sign Out",
+    "Total": "Total",
+    "Like": "Like"
+  },
+  "Home": {
+    "Title": "Home",
+    "Top": "TOP",
+    "Official": "OFFICIAL",
+    "Latest": "LATEST",
+    "Search": "Search Glossary",
+    "Empty": "Glossary not found"
+  },
+  "MyVocab": {
+    "Title": "My Glossary",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "DeleteTitle": "Are you sure you want to delete?",
+    "DeleteMsg": "Glossary:",
+    "CancelButton": "Cancel",
+    "DeleteButton": "Delete",
+    "NoGlossary": "Glossary not found"
+  },
+  "CreateGlossary": {
+    "Title": "Create Glossary",
+    "Private": "Private",
+    "Name": "Glossary name",
+    "Description": "description",
+    "Word": "Word",
+    "Meaning": "Meaning",
+    "Create": "Create",
+    "Alert": "Alert!",
+    "Below": "Minimum 5 words required",
+    "Complete": "Please complete all fields",
+    "OK": "OK",
+    "DeleteTitle": "Are you sure you want to delete?",
+    "DeleteMsg": "",
+    "Cancel": "Cancel",
+    "Delete": "Delete",
+    "CreateAlert": "Create Glossary",
+    "CreateMsg": "Are you sure you want to create?"
+  },
+  "NoPermission": {
+    "Title": "Required Login",
+    "Msg": "You need to sign in to continue !"
+  },
+  "Practice": {
+    "Title": "Practice"
+  },
+  "Detail": {
+    "Title": "Detail",
+    "Practice": "Practice",
+    "Game": "Game"
+  },
+  "Game": {
+    "Title": "Game",
+    "Choice": "Choice",
+    "FlashCard": "Flash card",
+    "FillIn": "Fill in",
+    "Charades": "Charades"
+  },
+  "Edit": {
+    "Title": "Edit",
+    "Alert": "Alert!",
+    "Below": "Minimum 5 words required",
+    "OK": "OK",
+    "EditAlert": "Edit Glossary",
+    "EditAlertMsg": "Are you sure you want to edit?",
+    "Cancel": "Cancel",
+    "Edit": "Edit",
+    "DeleteTitle": "Are you sure you want to delete?",
+    "DeleteMsg": "",
+    "Delete": "Delete",
+    "Name": "Glossary name",
+    "Description": "description",
+    "Word": "Word",
+    "Meaning": "Meaning"
+  },
+  "GameModal": {
+    "Congrat": "Congrat",
+    "Score": "Your Score",
+    "End": "End game"
+  },
+  "FlashCard": {
+    "Correct": "Correct",
+    "SkipWrong": "Skip or Wrong"
+  },
+  "FillIn": {
+    "Skip": "Skip",
+    "Reset": "Reset"
+  },
+  "Charades": {
+    "Guide": "Turn the screen towards a friend",
+    "Correct": "Correct",
+    "Skip": "Skip"
+  }
+}
